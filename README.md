@@ -13,7 +13,7 @@ The goal of this project is to detect fraudulent insurance claims using machine 
 | File | Description |
 |------|-------------|
 | `Fraudulent_Claim_Detection_Starter.ipynb` | Main Jupyter notebook containing data cleaning, EDA, feature engineering, model building, and evaluation. |
-| `Fraudulent_Claim_Detection_Starter.pdf` | Well-formatted PDF report generated from the notebook. Suitable for academic or stakeholder submission. |
+| `Fraudulent_Claim_Detection_Starter.pdf` | Well-formatted PDF report generated from the notebook. |
 | `Fraudulent_Claim_Detection_Presentation.pptx` | Summary PowerPoint presentation highlighting business problem, approach, key findings, and recommendations. |
 
 ---
